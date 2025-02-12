@@ -1,4 +1,4 @@
-# 📈 Stock Market Analysis & Prediction Tool  
+# Stock Market Analysis & Prediction Tool  
 
 This project is a **Python-based stock market analysis tool** that fetches real-time data, calculates moving averages, and predicts future stock prices using **machine learning**.
 
